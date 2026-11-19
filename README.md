@@ -69,7 +69,7 @@ git clone https://github.com/nirupamgopavarapu-dot/LandGuard-AI.git
 ### 2. Open the project folder
 
 ```bash
-cd LandGuard-AI
+cd LandGuard-AI/LandGuard_Ai
 ```
 
 ### 3. Install dependencies
